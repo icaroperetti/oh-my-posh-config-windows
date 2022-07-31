@@ -16,4 +16,4 @@ Documentação: [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
   ```shell
     $ code $PROFILE
   ```
-  - Adicione o que se encontra no https://github.com/icaroperetti/oh-my-posh-config/blob/main/Microsoft.Powershell_profile.ps1
+  - Adicione o que se encontra no arquivo https://github.com/icaroperetti/oh-my-posh-config/blob/main/Microsoft.Powershell_profile.ps1
