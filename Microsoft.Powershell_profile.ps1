@@ -2,7 +2,7 @@ Import-Module posh-git
 # Import-Module oh-my-posh
 Import-Module PSReadline
 oh-my-posh --init --shell pwsh --config "~/AppData/Local/Programs/oh-my-posh/themes/the-unnamed.omp.json" | Invoke-Expression
-# Set-PoshPrompt -Theme robbyrussel
+
 
 
 # # Autocomplete
