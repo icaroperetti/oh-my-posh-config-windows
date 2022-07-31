@@ -1,5 +1,7 @@
 # oh-my-posh-config
 
+Documentação: [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
+
 > ### Instalação
   
   - Execute no powershell os seguintes comandos para instalar as dependências
