@@ -1,6 +1,6 @@
 # oh-my-posh-config
 
-Documentação: [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
+[oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
 
 > ### Install Oh-my-posh
   
