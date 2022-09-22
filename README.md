@@ -15,7 +15,7 @@ Documentação: [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
   ```
   
   - Em seguida abra o seu perfil do windows terminal com:
-  - In your powershell profile add this:
+  - Open your powershell profile:
   
   ```shell
     $ code $PROFILE
